@@ -1,1 +1,1 @@
-# coursera_htmlcssjs
+# coursera course HTML CSS JS 
